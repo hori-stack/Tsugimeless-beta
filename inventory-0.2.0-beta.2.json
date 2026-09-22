@@ -1,15 +1,15 @@
 {
   "package": "com.horicraft.tsugimeless",
-  "version": "0.2.0-beta.3",
-  "archive": "com.horicraft.tsugimeless-0.2.0-beta.3.zip",
-  "zipSHA256": "323f28bd7c659f7b4e47258417e1fd78db35dc1d91da8639fe6cabd217cd4b01",
+  "version": "0.2.0-beta.2",
+  "archive": "com.horicraft.tsugimeless-0.2.0-beta.2.zip",
+  "zipSHA256": "3974afd1bda56615e94abe858b697d38c51e5597c0e7250f8dd0f6c700625d22",
   "publicKeyConfigured": true,
   "verificationOnly": false,
   "files": [
     {
       "path": "CHANGELOG.md",
-      "sha256": "39e6a014a38acc513233abf1c2472469dc28565538813edd9630942f2310c11e",
-      "bytes": 3515
+      "sha256": "0ce079afbe095e1a91490e300ff628fd5da06dab2210f33503ef4961ccdedac3",
+      "bytes": 2548
     },
     {
       "path": "CHANGELOG.md.meta",
@@ -157,16 +157,6 @@
       "bytes": 243
     },
     {
-      "path": "Editor/LocTable.Report.cs",
-      "sha256": "db56e07a0b0561e38705e4e5ba012758a49a6b299c12d5afa34c519a9d89daed",
-      "bytes": 6352
-    },
-    {
-      "path": "Editor/LocTable.Report.cs.meta",
-      "sha256": "68493f3e3ae2d04ad1df2acef81c5f9064ef62a299054c57ebb38bb4e15a7b64",
-      "bytes": 243
-    },
-    {
       "path": "Editor/LocTable.Steps.cs",
       "sha256": "9b355ae09d0c6958cd8f2386684dce108c44483d73b763d15c2e44843ff86922",
       "bytes": 9720
@@ -188,8 +178,8 @@
     },
     {
       "path": "Editor/LocTable.cs",
-      "sha256": "17254a19c40aa786b3195ca7d2917524a38a2fb8e6f90660ef9b72fcfba2dd5f",
-      "bytes": 42753
+      "sha256": "4aa362354c01b2cd52086333c6cd05cc6809068cf5d99f05c30d92ac6f8d1202",
+      "bytes": 42648
     },
     {
       "path": "Editor/LocTable.cs.meta",
@@ -582,36 +572,6 @@
       "bytes": 204
     },
     {
-      "path": "Editor/TesterPhotoCapture.cs",
-      "sha256": "2f8e3cb7313909aaea62a11f918f151224091cc465c5caf1bccd29acf3e6ce60",
-      "bytes": 9409
-    },
-    {
-      "path": "Editor/TesterPhotoCapture.cs.meta",
-      "sha256": "3a28e74a125e39e41e9da2a802baccd9dbbf468df3855b5ba72e3b4407882796",
-      "bytes": 243
-    },
-    {
-      "path": "Editor/TesterReportBundle.cs",
-      "sha256": "4dc22560c2e6efaa238de5c2dc7204cb8e636ce5c64a7fac3d1d5d16ea4dd6b0",
-      "bytes": 9585
-    },
-    {
-      "path": "Editor/TesterReportBundle.cs.meta",
-      "sha256": "5159ef48618ce9292cd6bd7dfb3bfed61cf60c28054cd71d62a1588f4b5a5242",
-      "bytes": 243
-    },
-    {
-      "path": "Editor/TesterReportWindow.cs",
-      "sha256": "a7dfdaf89a36b4f1fbe2819071ad481937bfd79041a27a4d908c27f34b95dbb3",
-      "bytes": 9443
-    },
-    {
-      "path": "Editor/TesterReportWindow.cs.meta",
-      "sha256": "5a8405e4870f6d8ebe95ee780f277159daa33dbb9626863dc71b1b41677a7396",
-      "bytes": 243
-    },
-    {
       "path": "Editor/Tsugimeless.uss",
       "sha256": "9c4a1013104b27412742e8ac2be77138a287aac5427a532339b32e3e26746575",
       "bytes": 2997
@@ -723,8 +683,8 @@
     },
     {
       "path": "Editor/TsugimelessWindow.Report.cs",
-      "sha256": "b6be237ff31911b9e281365fc6d756231f51a4623fe72bbc5367318335e6a729",
-      "bytes": 10004
+      "sha256": "5d1551962f086725a59730eea34e49056274284f9cf7dfd2484cde2f28d912ce",
+      "bytes": 5807
     },
     {
       "path": "Editor/TsugimelessWindow.Report.cs.meta",
@@ -763,8 +723,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "ec8e4700679f3feb9d8e3184dd8a1cde0b004344565c0676afc90aa303bffd2e",
-      "bytes": 6892
+      "sha256": "56237b31c9b210e42826b8a4b58e90b00a6cfac1e66c760dc17aff7faa2efcc6",
+      "bytes": 6066
     },
     {
       "path": "README.md.meta",
@@ -773,7 +733,7 @@
     },
     {
       "path": "package.json",
-      "sha256": "f9420f82964148549c64926e59b6a94a69f54a14be86f2fde5123378ea6070ab",
+      "sha256": "fc73693456c865491f568ea4122a8f7a75ca03ae9d8e67cb59a19f815230f1a5",
       "bytes": 646
     },
     {

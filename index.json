@@ -19,6 +19,20 @@
           "url": "https://raw.githubusercontent.com/hori-stack/Tsugimeless-beta/codex/tester-beta/packages/com.horicraft.tsugimeless-0.2.0-beta.2.zip",
           "horicraftVerificationOnly": false,
           "zipSHA256": "3974afd1bda56615e94abe858b697d38c51e5597c0e7250f8dd0f6c700625d22"
+        },
+        "0.2.0-beta.3": {
+          "name": "com.horicraft.tsugimeless",
+          "version": "0.2.0-beta.3",
+          "displayName": "ツギメレス (Beta)",
+          "description": "Face/body neck seam editor with mesh-row range adjustment, local color correction, preview and per-avatar result history. Requires lilToon. Trial: avatar selection and line adjustment; a product key is required to generate and apply colors.",
+          "unity": "2022.3",
+          "author": {
+            "name": "HoriCraft"
+          },
+          "vpmDependencies": {},
+          "url": "https://raw.githubusercontent.com/hori-stack/Tsugimeless-beta/codex/tester-beta/packages/com.horicraft.tsugimeless-0.2.0-beta.3.zip",
+          "horicraftVerificationOnly": false,
+          "zipSHA256": "323f28bd7c659f7b4e47258417e1fd78db35dc1d91da8639fe6cabd217cd4b01"
         }
       }
     }
