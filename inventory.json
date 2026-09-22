@@ -1,0 +1,745 @@
+{
+  "package": "com.horicraft.tsugimeless",
+  "version": "0.2.0-beta.2",
+  "archive": "com.horicraft.tsugimeless-0.2.0-beta.2.zip",
+  "zipSHA256": "3974afd1bda56615e94abe858b697d38c51e5597c0e7250f8dd0f6c700625d22",
+  "publicKeyConfigured": true,
+  "verificationOnly": false,
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "0ce079afbe095e1a91490e300ff628fd5da06dab2210f33503ef4961ccdedac3",
+      "bytes": 2548
+    },
+    {
+      "path": "CHANGELOG.md.meta",
+      "sha256": "c07331dfe7b724249dafbf7ecc760b7955960c19cd6f53b2ee4fc743049ef649",
+      "bytes": 155
+    },
+    {
+      "path": "Documentation~/third-party-liltoon-color.txt",
+      "sha256": "874e4d1759954c1e2dde10b6a4a16b842a82bcf626295e1fb69103f8d3974972",
+      "bytes": 1593
+    },
+    {
+      "path": "Editor.meta",
+      "sha256": "220cf6aa837751c60112d55c263534e90b523aa2409ff8797620d46b86a5904c",
+      "bytes": 172
+    },
+    {
+      "path": "Editor/AvatarContext.cs",
+      "sha256": "dba515bfb2530aa87e1002e166df144b4b4435ffa51ae86f43ca174bf5983ed6",
+      "bytes": 1659
+    },
+    {
+      "path": "Editor/AvatarContext.cs.meta",
+      "sha256": "ae650afb336905ffc06cf807da201174d3003f081d03e500f9ea4df73029393b",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/AvatarDefinitions.cs",
+      "sha256": "c95e698ed20daefa97ea3587c31a3572e69d1d21f182d595e352e2ae0722cb81",
+      "bytes": 4577
+    },
+    {
+      "path": "Editor/AvatarDefinitions.cs.meta",
+      "sha256": "d9c204f5be7efd5edc2b86c0a26d48f20dba02aeadf003c5af7fa4c3c4f2ea3b",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/AvatarDefinitions.json",
+      "sha256": "fb844f2c04dd4d5b3e26ad8d46648a00f21e9b5a3c9764dd1082a2174d0ea6d5",
+      "bytes": 11083
+    },
+    {
+      "path": "Editor/AvatarDefinitions.json.meta",
+      "sha256": "4e5515ace88f8099cd32fe423721b8135fef948875a4cac8ad5fe89c550da33d",
+      "bytes": 158
+    },
+    {
+      "path": "Editor/AvatarSelection.cs",
+      "sha256": "392fe4b29c0f8b2223cebd1af2e52cc678af26dbf849c05ad8a810948e66b9a5",
+      "bytes": 4024
+    },
+    {
+      "path": "Editor/AvatarSelection.cs.meta",
+      "sha256": "c6233682e11e8d484a0ac4cae5b53ec3ef02e10f097c3776d8e7a5e1dde9b68c",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/HoriCraft.Tsugimeless.Editor.asmdef",
+      "sha256": "80b78daeabf15895d14c7c3ede1172e78cb9c1a66fcff4032601efec3e9f315b",
+      "bytes": 386
+    },
+    {
+      "path": "Editor/HoriCraft.Tsugimeless.Editor.asmdef.meta",
+      "sha256": "b5e06dfcf8a9bfccf7d022461c4cac7e4082e0982a691fd1bdbda1c079a12af5",
+      "bytes": 166
+    },
+    {
+      "path": "Editor/L.cs",
+      "sha256": "9cd34a450b5d96987540c6c1a89ee248ff447bacf0e3ffe8d1fe1e3a1cbd43df",
+      "bytes": 748
+    },
+    {
+      "path": "Editor/L.cs.meta",
+      "sha256": "f646cf58ba837815431c75b12a8083e4482c786673ec078a1d9292e9f9bb81ac",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/LilToonMaterialRead.cs",
+      "sha256": "feb30010bb97e59dfc1afe289955e466f64156cb4def81f2ac664a01d5824f0d",
+      "bytes": 12449
+    },
+    {
+      "path": "Editor/LilToonMaterialRead.cs.meta",
+      "sha256": "1feefc715582235ec616b3ed08e368e01030cdb7880a18d4a06db5d497c527e9",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/LocTable.Apply.cs",
+      "sha256": "9c1591f6d5381f907574c19c5494f1acbadd440ef15e0ef24b4316b60a343914",
+      "bytes": 3740
+    },
+    {
+      "path": "Editor/LocTable.Apply.cs.meta",
+      "sha256": "2e9ac17e2631615629e80ef5cdc9bc4e07aabcdde4dc8b8bc5675fbbdd748c86",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/LocTable.Band.cs",
+      "sha256": "0064dedc3fde0f50e4d1c9435f6549af9287c932184db71000d9d89097cdd369",
+      "bytes": 14711
+    },
+    {
+      "path": "Editor/LocTable.Band.cs.meta",
+      "sha256": "7f89c11b07bd3259857ff11f15f8ae5e63ba0fd2f9bc9b04425806e08ce28a63",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/LocTable.Flattening.cs",
+      "sha256": "6707ff8647838f179d5180d4e00c378689ffbd506c4ccd9968c189e13822094c",
+      "bytes": 460
+    },
+    {
+      "path": "Editor/LocTable.Flattening.cs.meta",
+      "sha256": "972f3eb43faab407fdf7a7dcf1cfa5cc69f9a5e9817e814d12cc00e42050d641",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/LocTable.History.cs",
+      "sha256": "4b871de0d71e4606d6d888a2ad0a9542465e83e249abd2bf358eb419cb229ef8",
+      "bytes": 3696
+    },
+    {
+      "path": "Editor/LocTable.History.cs.meta",
+      "sha256": "783d42a19f01fdb7a695cdf6090680e55873079da4225d6ac598b70d6d20abe2",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/LocTable.License.cs",
+      "sha256": "311baeeb814be24d98b598a36e62992c4eb848c6edcbe4c8e96784d098f0cae2",
+      "bytes": 4205
+    },
+    {
+      "path": "Editor/LocTable.License.cs.meta",
+      "sha256": "bf1b44531c6bdc125729a89131b2e8a63efe5da7f800df610760cc2ad7833c2b",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/LocTable.Line.cs",
+      "sha256": "9cf41b4ed0e2f7ad816575fa7cb4e41a3f6f0f0d047b910ad0e631bc443a9f51",
+      "bytes": 1730
+    },
+    {
+      "path": "Editor/LocTable.Line.cs.meta",
+      "sha256": "883e7f720671b6dc4c5e61f0919de8aaf88e8661276bb4a86472fa18eb05615f",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/LocTable.Steps.cs",
+      "sha256": "9b355ae09d0c6958cd8f2386684dce108c44483d73b763d15c2e44843ff86922",
+      "bytes": 9720
+    },
+    {
+      "path": "Editor/LocTable.Steps.cs.meta",
+      "sha256": "2a941311e5a479ea23eb72a373dcf44ec9cf5edf807bf72454c39632835d80e8",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/LocTable.Workflow.cs",
+      "sha256": "36ab7330137519895c1e0d8f54e923832af8d356b8f0f7976ade56626b5221c1",
+      "bytes": 9710
+    },
+    {
+      "path": "Editor/LocTable.Workflow.cs.meta",
+      "sha256": "6e746bb9e6d462cfd0ddb761b0155804ce401e18c1ae3d4f95907176b70b714c",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/LocTable.cs",
+      "sha256": "4aa362354c01b2cd52086333c6cd05cc6809068cf5d99f05c30d92ac6f8d1202",
+      "bytes": 42648
+    },
+    {
+      "path": "Editor/LocTable.cs.meta",
+      "sha256": "bfa883b7068d72278d64d6d133683f032b5bdef67ee7bc7c289367b0a0b91c5f",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Mask.meta",
+      "sha256": "c40465145dc88da6af2b82c6fbfecf4a65ff1fbb76312361f648e0ef79851174",
+      "bytes": 172
+    },
+    {
+      "path": "Editor/Mask/GradientMaskBuilder.cs",
+      "sha256": "da8b6c7b144df36e6d04607c72d913a935a617a7143425bf3e8899883a8ddff9",
+      "bytes": 7107
+    },
+    {
+      "path": "Editor/Mask/GradientMaskBuilder.cs.meta",
+      "sha256": "faa9acb6f7c5b76ccdabf3b0566064ee938b19eda838f875cfd0be27994de090",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Mask/UvMaskRasterizer.Weighted.cs",
+      "sha256": "59dc6dae8d7914117601c9c0786b15dd1653f0e8b3ff6800ddf3d1b5d7ad96f1",
+      "bytes": 24527
+    },
+    {
+      "path": "Editor/Mask/UvMaskRasterizer.Weighted.cs.meta",
+      "sha256": "4826cf5e0aba3a3075df8d9efbeb871e8050728ef11bbc3dea83716cce5ba055",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Mask/UvMaskRasterizer.cs",
+      "sha256": "4491e011ec3820975b6d8db1dc3d16c444cbd5d9b75e1997bc9b1f1ac1920eaf",
+      "bytes": 12617
+    },
+    {
+      "path": "Editor/Mask/UvMaskRasterizer.cs.meta",
+      "sha256": "6d5be0faacb8c63013e75c9ac1bd5c649586f5f6cf8723da4d8638b05fcd0730",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/MaterialPropertyDefinitions.json",
+      "sha256": "fa73501654da82d3760602f6e01c606da87d282744723fe8eea66d9c9247a642",
+      "bytes": 7217
+    },
+    {
+      "path": "Editor/MaterialPropertyDefinitions.json.meta",
+      "sha256": "dbca603ed589e3cfd36c9b466d6fc8ea8da2f35521063f6dc0dc7e67d7d76b20",
+      "bytes": 158
+    },
+    {
+      "path": "Editor/Neck.meta",
+      "sha256": "fd4ba8c8f5350a680c8883e51625d5a9b2cbaed733e278a52da76c0511bf9c1e",
+      "bytes": 172
+    },
+    {
+      "path": "Editor/Neck/NeckApply.cs",
+      "sha256": "d30ca05f07bf2ff45d013d4c7a39e56f41f83e0a9de24c52c76de2cc7904c3ae",
+      "bytes": 15379
+    },
+    {
+      "path": "Editor/Neck/NeckApply.cs.meta",
+      "sha256": "228ab6c2543d418c01cac169f9b21015a80a80929021c75cb152d177af4c517e",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Neck/NeckBake.cs",
+      "sha256": "48c8d0c05be7c8b83c36d4df3c79c4110e047c41c7695aa6d2f14cdbd45b8a69",
+      "bytes": 12922
+    },
+    {
+      "path": "Editor/Neck/NeckBake.cs.meta",
+      "sha256": "dda8b313fcb30a0e7c87d85cdc84365631a64e00c2b42febd0c51bdd9c191f18",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Neck/NeckBand.cs",
+      "sha256": "e2bc4be753da5042cccbed21bacff97892dd6a77f428a7c14cfc407dc9aa4953",
+      "bytes": 35693
+    },
+    {
+      "path": "Editor/Neck/NeckBand.cs.meta",
+      "sha256": "54f3ca1bf33d867b20d844910edca73922c485aff57c3370f201377f48c1081c",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Neck/NeckFlattening.cs",
+      "sha256": "7d6022b8023c6c511236b43eb18eec04b6c2f4fad1bdd1c0f624ee64ac41952d",
+      "bytes": 9083
+    },
+    {
+      "path": "Editor/Neck/NeckFlattening.cs.meta",
+      "sha256": "15bf9c1d403715e19f161f9db58b27dadb2cdc07203c96a4b5661c558a6af4f6",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/Neck/NeckFlatteningSupport.cs",
+      "sha256": "64a6aed9ce97f34f1e83c3d3290f79ee884d9c4025cdaad700166b6578c2a4c1",
+      "bytes": 7852
+    },
+    {
+      "path": "Editor/Neck/NeckFlatteningSupport.cs.meta",
+      "sha256": "c1dbde6e4ffa25aea3d96e11bb69eb72930fd84e998cbef776325b4453b9e50d",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/Neck/NeckGoal.cs",
+      "sha256": "884b37ef44fd82561566cd44d2929f4f20c37d1c0325c29b6bcff0e6b6052436",
+      "bytes": 4229
+    },
+    {
+      "path": "Editor/Neck/NeckGoal.cs.meta",
+      "sha256": "c5836ed97c0e8242ac183f463c684a0aff1d5be9078e5f00d150d7cbf4bae056",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Neck/NeckHistoryImage.cs",
+      "sha256": "b02ec2571af91743524d85b7a2a138fddee6a7090218c8ce2114e3c3767264e8",
+      "bytes": 8109
+    },
+    {
+      "path": "Editor/Neck/NeckHistoryImage.cs.meta",
+      "sha256": "246f4b541ccf579960c220fcc65655a1b1ea1b92c8575f82efa0d83fb63b4e81",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/Neck/NeckHistoryRecord.cs",
+      "sha256": "6c9b0931affc583499d789be3b818c907be0bfd58d3f771b91b47126a0c85c3e",
+      "bytes": 13575
+    },
+    {
+      "path": "Editor/Neck/NeckHistoryRecord.cs.meta",
+      "sha256": "3216128898d8a8c2ba61657a57653c97f819c52f186c011013ad2e89fd71a216",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/Neck/NeckHistoryStore.cs",
+      "sha256": "048220afa1f731b073183f23b1e0e8c208f70405bfe2a51994fa77d34e030861",
+      "bytes": 14090
+    },
+    {
+      "path": "Editor/Neck/NeckHistoryStore.cs.meta",
+      "sha256": "5b66d861a33f7fa1de71890fc22b537214042ef4bd53a1822b408908f26ed60d",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/Neck/NeckLicensedActions.cs",
+      "sha256": "edf10db97a25de7c19b1583858cc9907348cfc3ae10e90e32bc46823fe04a8fc",
+      "bytes": 1114
+    },
+    {
+      "path": "Editor/Neck/NeckLicensedActions.cs.meta",
+      "sha256": "79f1516f63a5956497f488cb1d96ba3442949212f1594508ef3df63e34417a8a",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/Neck/NeckLinePlacer.cs",
+      "sha256": "3c872cade15a73caa992907b7105c58033c9113a57460ced6cb345ee08420533",
+      "bytes": 26338
+    },
+    {
+      "path": "Editor/Neck/NeckLinePlacer.cs.meta",
+      "sha256": "0c345862c6bf0c5751c19e1cd74fc592b3347ba62a5069cbe8710476d86c1a4e",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Neck/NeckMeshRows.cs",
+      "sha256": "9642c9264265975e755b2ac5a32306cedf6f0a9932b3def0ca0dc7aad3b852a0",
+      "bytes": 11929
+    },
+    {
+      "path": "Editor/Neck/NeckMeshRows.cs.meta",
+      "sha256": "9e07388a3443c7df4f86ccbe00d282980bdddb74f7cdd3d03724d506e1e57558",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/Neck/NeckNdmfPreviewPause.cs",
+      "sha256": "4e12cbbdfa959708724e3023c28f708e3f73026c5e1d3dda81dcf30c3b058119",
+      "bytes": 3076
+    },
+    {
+      "path": "Editor/Neck/NeckNdmfPreviewPause.cs.meta",
+      "sha256": "1e656a246b118e5b33bcd1c24acab140662a209b2f226e3a3b13fa62c52e61d2",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/Neck/NeckPreview.cs",
+      "sha256": "86fda5e75aa5e19b81e5cf21bf02e0713af56a8da5ae0e8e2eb5bf40431a7c48",
+      "bytes": 10399
+    },
+    {
+      "path": "Editor/Neck/NeckPreview.cs.meta",
+      "sha256": "cf7e29748de36077a4ceecffe151dd0c39d67577843ebc4e2fa5343361ce0eef",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Neck/NeckReference.cs",
+      "sha256": "d42dbb6459c1314c79585a867dfc14b77e4ebc4c3876c81339372d85f4d7184f",
+      "bytes": 24189
+    },
+    {
+      "path": "Editor/Neck/NeckReference.cs.meta",
+      "sha256": "97458d5d3b97de686af2b77133d7bf2c5fd84932701c915336bcc27abdc982c6",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Neck/TsugimelessNeckGoal.shader",
+      "sha256": "0d0bf9e7b7a3b51c979c2233b4302fe956d0e645e9ddb7f5e17debd4871d1d2c",
+      "bytes": 2137
+    },
+    {
+      "path": "Editor/Neck/TsugimelessNeckGoal.shader.meta",
+      "sha256": "e1190131cc3a575956f649eccde947031fc2a139c8b957b9e57be807852cb70a",
+      "bytes": 204
+    },
+    {
+      "path": "Editor/NeckAnalysis.cs",
+      "sha256": "c70777065d1df806a3d373a387d6058ec991e685e2ac5e2460609f40455aa5e8",
+      "bytes": 8274
+    },
+    {
+      "path": "Editor/NeckAnalysis.cs.meta",
+      "sha256": "c4ac7d2e239070c8fa63d57e60843664e77508669a91dae2beaf196da5f0fe6d",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckColorMath.hlsl",
+      "sha256": "954df1cafe7688b89f50d828dd47402ce256efcd40766101da5a8958a0a98ff7",
+      "bytes": 2324
+    },
+    {
+      "path": "Editor/NeckColorMath.hlsl.meta",
+      "sha256": "9a0e3f889f91ded99b966077008b4671dd7f7becafdbdb8b784e6678d18d1176",
+      "bytes": 161
+    },
+    {
+      "path": "Editor/NeckColorSampler.cs",
+      "sha256": "14b66e58be78a1aba980e6bdbc001fc4b814ad1c320343826d962ed1e7fbfeae",
+      "bytes": 9159
+    },
+    {
+      "path": "Editor/NeckColorSampler.cs.meta",
+      "sha256": "5a3da7e883704b92354450a82004f572a6c204a6b04862620758a6556e07894f",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckColorSampling.shader",
+      "sha256": "bdd007c6424f380b012bb4bc82c8b4b43dbfcd57ae4b41248c0b46dd9c88922b",
+      "bytes": 4531
+    },
+    {
+      "path": "Editor/NeckColorSampling.shader.meta",
+      "sha256": "a2f72d73334e04e8a70c290a245156f2657617c5f55cdcc3257a1f5e362fb10e",
+      "bytes": 154
+    },
+    {
+      "path": "Editor/NeckDetection.cs",
+      "sha256": "8e25ee2168a8e994eb22a50d82ae5788017278474490e540036a4e8c1623915b",
+      "bytes": 28274
+    },
+    {
+      "path": "Editor/NeckDetection.cs.meta",
+      "sha256": "407a73a697cc17d3b0114b6532e8eb27fe3af6cddf5eb5a0b32c517749c9af19",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckDiagnosis.cs",
+      "sha256": "ca0c323cdfbbbea9e6ea30019337043dee406e08b922dd2a1f36bafb387d06a8",
+      "bytes": 3261
+    },
+    {
+      "path": "Editor/NeckDiagnosis.cs.meta",
+      "sha256": "d4ce2e1635963963a202414c590a2286ab6a0da6d9600d29ebd0db4cc1a51d44",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckDiagnosisSession.cs",
+      "sha256": "f904015b4566adb3c79491b4ed4c383b57c382598e72c95ebc15f2151abfa988",
+      "bytes": 8087
+    },
+    {
+      "path": "Editor/NeckDiagnosisSession.cs.meta",
+      "sha256": "5f8287631a832e2eb0b19691206fd5a12eaf5a63fcedf21ebd91f3c68ab56016",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckMaterialComparison.cs",
+      "sha256": "a8c4ebf9d1fe2f024e45c0d75a4490ad924a7d976de6101da9f36bb5db3722a4",
+      "bytes": 5674
+    },
+    {
+      "path": "Editor/NeckMaterialComparison.cs.meta",
+      "sha256": "8b866065b4ef58a279c9ab961c8d5693405e2ad1c7ebcb40b771630ac327d02f",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckMeasurementOverlay.cs",
+      "sha256": "f3f5549fdeba4cf97c752559d9c4cdc3a91776c58de1d2b8224f6f68cfd230b1",
+      "bytes": 1463
+    },
+    {
+      "path": "Editor/NeckMeasurementOverlay.cs.meta",
+      "sha256": "56435ee578b458681661b1678287a9f9089aee8638f91f436fd862c8eb970974",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckOverlay.cs",
+      "sha256": "e76ed91d6e65f24e142aec4db462fc1f0f626058753af6cd5c1953488a59d87b",
+      "bytes": 4931
+    },
+    {
+      "path": "Editor/NeckOverlay.cs.meta",
+      "sha256": "e61a3dfe544576d02bd2bf5f796fe9d711fb7c6a3458ed9c6718a1f5ff68bc2b",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckSnapshot.cs",
+      "sha256": "946eb0515c181972ecc16d9991a6cb5c2298476c48e93bffda7a3c1b2ba4041f",
+      "bytes": 16361
+    },
+    {
+      "path": "Editor/NeckSnapshot.cs.meta",
+      "sha256": "7da8b7445bac79229136ac7b3224050d2a5d67fd72a6cc798f55630dfd9668cb",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckTargets.cs",
+      "sha256": "9c303ed226ab7464d889faf6323bd77b3ee4019a6e210a6d47ee4b49b363321a",
+      "bytes": 9540
+    },
+    {
+      "path": "Editor/NeckTargets.cs.meta",
+      "sha256": "efc8c7589813a4167e3e20d19d8a87f82571859a888b743ca025943aaf830dae",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckViewController.cs",
+      "sha256": "b4abb65cc7c10398e0f21c1868593274398e930d1b4ad600e8054a18cdbf249e",
+      "bytes": 4135
+    },
+    {
+      "path": "Editor/NeckViewController.cs.meta",
+      "sha256": "a204ac5b4c39527a8920981a11f584837366bc2463a093809c6d7bdd1de510a3",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/NeckViewFrame.cs",
+      "sha256": "13e8ce7703eda7ba0d799123dcb4d216c53e89e3dd7a180a13a0147d90a27200",
+      "bytes": 2463
+    },
+    {
+      "path": "Editor/NeckViewFrame.cs.meta",
+      "sha256": "0f6d5054ad813a9c9e68cec98526bb15791f66c324ecdcaf9dc82ee9f23e1e52",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Seam.meta",
+      "sha256": "65fba3d7f057ce6fe50cf2a15dba39d4d9744b5553ad5347afa1660ef692b4d4",
+      "bytes": 172
+    },
+    {
+      "path": "Editor/Seam/SeamColorEvaluator.cs",
+      "sha256": "a0d98ef17f1fd06ea13e46905dfcccc4988f92dcac4439beaab60005d9cf6adb",
+      "bytes": 8975
+    },
+    {
+      "path": "Editor/Seam/SeamColorEvaluator.cs.meta",
+      "sha256": "378d746c2821f6512b1da15c14a9d302f277643e671907625a2f49bee794d473",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Seam/SeamColorSolver.cs",
+      "sha256": "b7ea2cae5c28a007299bfbf36aaaac696596970e61a880530d445768f441278e",
+      "bytes": 4125
+    },
+    {
+      "path": "Editor/Seam/SeamColorSolver.cs.meta",
+      "sha256": "d7dbd4c68ac87e5f42b7afefdbf471ac2c805aee5b14b86461612d4a0b30b97f",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/Seam/TsugimelessSeamColor.shader",
+      "sha256": "40140f13a7aafaa3aeadea595790f448d4888228fc69ca5d01bf5c9bf94ff72a",
+      "bytes": 7349
+    },
+    {
+      "path": "Editor/Seam/TsugimelessSeamColor.shader.meta",
+      "sha256": "017a76ed6bb29fec7f077394e0806df4c9ac28662e1304e2a2d1227d0400edc2",
+      "bytes": 204
+    },
+    {
+      "path": "Editor/Tsugimeless.uss",
+      "sha256": "9c4a1013104b27412742e8ac2be77138a287aac5427a532339b32e3e26746575",
+      "bytes": 2997
+    },
+    {
+      "path": "Editor/Tsugimeless.uss.meta",
+      "sha256": "469d0735709c9b921ce3a7fdae71de3bb3d5cbea9702251ffb72c515b36ff8f3",
+      "bytes": 305
+    },
+    {
+      "path": "Editor/TsugimelessLicense.Public.cs",
+      "sha256": "959aee648851de0ca6c6c6e6f386d67c51eb2b5bc297e393198cfd89f8678431",
+      "bytes": 836
+    },
+    {
+      "path": "Editor/TsugimelessLicense.Public.cs.meta",
+      "sha256": "18087cea8ed19ad68c35be6da54edae5122bbf84a2c7af7bfd999102adb961d9",
+      "bytes": 60
+    },
+    {
+      "path": "Editor/TsugimelessLicense.cs",
+      "sha256": "08b9eea6aab3d260bd8306955d1a70da42628837eebbf4e3ac20a597def7de04",
+      "bytes": 3102
+    },
+    {
+      "path": "Editor/TsugimelessLicense.cs.meta",
+      "sha256": "550ab3c3175752ef07fe244fdf8e3c37c2679bc9f69cafbfd8885b8f1b0512b0",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/TsugimelessLicenseCodec.cs",
+      "sha256": "6a4bbbc2ad489c2065fb9a9d8726a493dfb3dacdf48c1c051e6527412afca5a3",
+      "bytes": 2382
+    },
+    {
+      "path": "Editor/TsugimelessLicenseCodec.cs.meta",
+      "sha256": "c14941d7993f32beac41007c04ef1874e950e4234742e2f9325101fdf278fffc",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/TsugimelessStyles.cs",
+      "sha256": "70c8dc042786eab687908aa72e74ffbf5777bbebbb6ad0a670b03e39b242dc86",
+      "bytes": 3189
+    },
+    {
+      "path": "Editor/TsugimelessStyles.cs.meta",
+      "sha256": "28e132f8dec60266aaa973844347a14db9fae9f1d68174dadeceb99b9ecb8d29",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Avatar.cs",
+      "sha256": "29322f9bdd215e7900fdb29c121c21abb893eaaca190ba199e179cb39cdedc89",
+      "bytes": 5300
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Avatar.cs.meta",
+      "sha256": "c44132ec0293e6ccdb24e95fa545127675872f7a1cc6b6c6016e6ffadf3e0b9b",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Diagnosis.cs",
+      "sha256": "1cc1c0210c234def6fef0f7371a55a336f6fd376bd42b938ebc7b571bf172886",
+      "bytes": 20737
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Diagnosis.cs.meta",
+      "sha256": "d5fabb24b002757e51e2acc3f469eb9df26459a0ca165bfefe8406a8ab0d1ad9",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/TsugimelessWindow.History.cs",
+      "sha256": "424c3b434948cab5dd23273568ee028899f32de855985bb545637ea995336f02",
+      "bytes": 4672
+    },
+    {
+      "path": "Editor/TsugimelessWindow.History.cs.meta",
+      "sha256": "839fbe2128e4740181a5d2250ebfc834ef4687ab37853485b9d1a3fa14b49326",
+      "bytes": 62
+    },
+    {
+      "path": "Editor/TsugimelessWindow.License.cs",
+      "sha256": "7f1814c693fb83b32aa4b9045f52eb15b9d96322187f1a5104f2120f4f16f0d4",
+      "bytes": 3222
+    },
+    {
+      "path": "Editor/TsugimelessWindow.License.cs.meta",
+      "sha256": "b1e9f01254e5735be33a653675fa3e7c88696a6be212c9b8ba8992fafa71b95c",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Navigation.cs",
+      "sha256": "35ecdd11014e25f0d34ecb62d254f88af3af22b044397ab16bc9311f5b807fe3",
+      "bytes": 5710
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Navigation.cs.meta",
+      "sha256": "93f244b56a3275bff6dffad8eb0733aee1338887dc0514be590e0d5a8726fdea",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Neck.cs",
+      "sha256": "8e09cc2696829aaf43aa3a667f2b78b76017e1d15ec174b6c483639ef1955ba4",
+      "bytes": 21638
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Neck.cs.meta",
+      "sha256": "47e5f3cd2203f53e83942d7bafda2c72730e4a6f4a6a280ce2e638703114ddab",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Report.cs",
+      "sha256": "5d1551962f086725a59730eea34e49056274284f9cf7dfd2484cde2f28d912ce",
+      "bytes": 5807
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Report.cs.meta",
+      "sha256": "11fc1defadaaca1f757329735df74e50552eae8a51c7ae43befd4241617c7749",
+      "bytes": 62
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Seam.cs",
+      "sha256": "5421b6130011d708b2addae9f464e5b4a9555948d0ebbbe89fa28235f0e2d20a",
+      "bytes": 39409
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Seam.cs.meta",
+      "sha256": "e7b1b7f7449c517a677f54b889744a4c90229a92278108ea49d85e6e84dd9270",
+      "bytes": 243
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Steps.cs",
+      "sha256": "ab20bdf3d94e5fdb9c0d1b9d7bb6ad537c7fe8090587a4bb2a6a853e437d46dc",
+      "bytes": 14608
+    },
+    {
+      "path": "Editor/TsugimelessWindow.Steps.cs.meta",
+      "sha256": "2ff33d654d3ee2f4fc45cdc8e12e105d8ee31044c3a18686adf611dd70984f6d",
+      "bytes": 240
+    },
+    {
+      "path": "Editor/TsugimelessWindow.cs",
+      "sha256": "f723ead1b466e538ff9c68f3fb837c0a3acc45e6945db120b99da67adc526c3b",
+      "bytes": 5217
+    },
+    {
+      "path": "Editor/TsugimelessWindow.cs.meta",
+      "sha256": "56bf0f75a5c9fd71b0830ad9e6f776864b0121e1556bd1785e960c074dc8f68f",
+      "bytes": 243
+    },
+    {
+      "path": "README.md",
+      "sha256": "56237b31c9b210e42826b8a4b58e90b00a6cfac1e66c760dc17aff7faa2efcc6",
+      "bytes": 6066
+    },
+    {
+      "path": "README.md.meta",
+      "sha256": "af4d892724183c5386d20336286016af9e9035b0e41224dbd35f3c0551019b20",
+      "bytes": 155
+    },
+    {
+      "path": "package.json",
+      "sha256": "fc73693456c865491f568ea4122a8f7a75ca03ae9d8e67cb59a19f815230f1a5",
+      "bytes": 646
+    },
+    {
+      "path": "package.json.meta",
+      "sha256": "b8e6213ea571ebca70c97367dce6eb10b5defa72c88fe4dc8881cd770b2d446c",
+      "bytes": 163
+    }
+  ]
+}

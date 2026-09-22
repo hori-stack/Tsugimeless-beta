@@ -1,0 +1,13 @@
+# This repository contains reviewed distribution artifacts only.
+!packages/*.zip
+*.key
+*.pem
+*.pfx
+*.xml
+*.unity
+*.prefab
+*.fbx
+*.mat
+Library/
+Assets/
+.env*
