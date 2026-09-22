@@ -1,15 +1,15 @@
 {
   "package": "com.horicraft.tsugimeless",
-  "version": "0.2.0-beta.4",
-  "archive": "com.horicraft.tsugimeless-0.2.0-beta.4.zip",
-  "zipSHA256": "e82d98bd39e5d2d23f2a0c106cd2d9e5fa556b457e23eb2c61fe6bb6d87d1d6f",
+  "version": "0.2.0-beta.3",
+  "archive": "com.horicraft.tsugimeless-0.2.0-beta.3.zip",
+  "zipSHA256": "323f28bd7c659f7b4e47258417e1fd78db35dc1d91da8639fe6cabd217cd4b01",
   "publicKeyConfigured": true,
   "verificationOnly": false,
   "files": [
     {
       "path": "CHANGELOG.md",
-      "sha256": "b1e8fdacfaad0e71e9499dfe9d70191cfd6c626efa8bf749da359d16efa8209e",
-      "bytes": 4227
+      "sha256": "39e6a014a38acc513233abf1c2472469dc28565538813edd9630942f2310c11e",
+      "bytes": 3515
     },
     {
       "path": "CHANGELOG.md.meta",
@@ -158,8 +158,8 @@
     },
     {
       "path": "Editor/LocTable.Report.cs",
-      "sha256": "3c78f0a5069aa17e1426d9fe35fc7b7e62ebc8d0008af65d3ee28b98a51b2014",
-      "bytes": 9484
+      "sha256": "db56e07a0b0561e38705e4e5ba012758a49a6b299c12d5afa34c519a9d89daed",
+      "bytes": 6352
     },
     {
       "path": "Editor/LocTable.Report.cs.meta",
@@ -593,8 +593,8 @@
     },
     {
       "path": "Editor/TesterReportBundle.cs",
-      "sha256": "db45eaa83e41302f68ac2c39976ddff9f8f35c10f04f985a8bf3088c8e6d16fd",
-      "bytes": 14505
+      "sha256": "4dc22560c2e6efaa238de5c2dc7204cb8e636ce5c64a7fac3d1d5d16ea4dd6b0",
+      "bytes": 9585
     },
     {
       "path": "Editor/TesterReportBundle.cs.meta",
@@ -603,8 +603,8 @@
     },
     {
       "path": "Editor/TesterReportWindow.cs",
-      "sha256": "232a9e2b50027121f9ebe8cb73cd1c40367451303e6029bb672e1cc7080d7fa8",
-      "bytes": 13043
+      "sha256": "a7dfdaf89a36b4f1fbe2819071ad481937bfd79041a27a4d908c27f34b95dbb3",
+      "bytes": 9443
     },
     {
       "path": "Editor/TesterReportWindow.cs.meta",
@@ -763,8 +763,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "2f9c150b3e6dcdd6dc7ffbc002845650f23deaea4dc4039d63053f3c24d15d02",
-      "bytes": 7032
+      "sha256": "ec8e4700679f3feb9d8e3184dd8a1cde0b004344565c0676afc90aa303bffd2e",
+      "bytes": 6892
     },
     {
       "path": "README.md.meta",
@@ -773,7 +773,7 @@
     },
     {
       "path": "package.json",
-      "sha256": "4fcc26501d5b3865d147574098db98f7799643c72cb53cbdbace850f6de3a752",
+      "sha256": "f9420f82964148549c64926e59b6a94a69f54a14be86f2fde5123378ea6070ab",
       "bytes": 646
     },
     {
